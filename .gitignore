@@ -1,0 +1,5 @@
+simulator
+build/
+*.o
+.DS_Store
+*.csv
